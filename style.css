@@ -1,0 +1,16 @@
+.contenedor {
+  background-color: gainsboro;
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+  margin: 30px;
+}
+.texto {
+  display: flex;
+  justify-content: end;
+  gap: 100px;
+  margin: 25px;
+}
+.imagen {
+  margin: 25px;
+}
